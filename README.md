@@ -84,7 +84,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hatem-alfarra-0281851ab/">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="LinkedIn GIF"/>
     <br>
     <img src="https://img.shields.io/badge/See%20Demos%20&%20Portfolio%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Portfolio Badge"/>
   </a>
