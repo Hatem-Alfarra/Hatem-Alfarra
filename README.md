@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Hatem Alfarra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <b>Software Engineer | AI Enthusiast | Cloud Explorer | Based in Canada</b>
+  <b>Software Engineer | Data Scientist | AI Enthusiast | Based in Canada</b>
 </p>
 
 <!-- Quick Links Bar with LinkedIn first -->
@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <b>🔗 My LinkedIn is where I showcase demos, complete projects, and code samples not visible here because of private repositories!</b>
+  <b>🔗 My LinkedIn is where I showcase demos of my projects. They are not visible here because they were made in private repositories for clients!</b>
 </p>
 
 ---
@@ -100,7 +100,7 @@
 
 - **AI Document Assistant**: Built for a national union; enables instant policy lookup, cut research time by 80%. (Demo on LinkedIn!)
 - **Slack & Google Meet Integrations**: OAuth 2.0, scalable to thousands of users.
-- **Invoice Automation**: Python + OCR; turned 10 hours per week of manual entry into a 1 minute work.
+- **Invoice Automation**: Python + OCR; turned 10 hours per week of manual entry into a minute's work.
 - **Emergency Healthcare App** *(Med.Hack+ 2024)*: Real-time triage, built at hackathon.
 - **Game Jam Entry**: "Make it, Count!" — Godot prototype in 48 hours.
 
