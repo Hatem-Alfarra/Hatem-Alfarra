@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Hatem Alfarra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <b>Driven Software Engineer | AI Enthusiast | Cloud Explorer | Based in Canada 🇨🇦</b>
+  <b>Software Engineer | AI Enthusiast | Cloud Explorer | Based in Canada</b>
 </p>
 
 <!-- Quick Links Bar with LinkedIn first -->
@@ -20,14 +20,6 @@
 - 🤖 Love integrating AI into real-world workflows & automating the boring stuff.
 - ☁️ Cloud geek: AWS, GCP, Azure, Docker, CI/CD.
 - 🔍 Always learning and levelling up.
-
----
-
-<!-- Large LinkedIn Call-to-Action with emoji and text -->
-<p align="center">
-  🚀 <b>Want to see my best work, demos, and project walk-throughs?</b><br>
-  <a href="https://www.linkedin.com/in/hatem-alfarra-0281851ab/"><img src="https://img.shields.io/badge/Visit%20My%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 🌟
-</p>
 
 ---
 
@@ -107,10 +99,9 @@
 
 - **AI Document Assistant**: Built for a national union; enables instant policy lookup, cut research time by 80%. (Demo on LinkedIn!)
 - **Slack & Google Meet Integrations**: OAuth 2.0, scalable to thousands of users.
-- **Invoice Automation**: Python + OCR; turned 10 hours of manual entry into 2 minutes.
+- **Invoice Automation**: Python + OCR; turned 10 hours per week of manual entry into a 1 minute work.
 - **Emergency Healthcare App** *(Med.Hack+ 2024)*: Real-time triage, built at hackathon.
 - **Game Jam Entry**: "Make it, Count!" — Godot prototype in 48 hours.
-- **AI Data Insights Tool**: Uses LangChain to summarize real-time market data.
 
 > 🔗 See more demos & code samples on my [LinkedIn](https://www.linkedin.com/in/hatem-alfarra-0281851ab/)!
 
@@ -118,20 +109,10 @@
 
 ### 🎓 Education & Certifications
 
-- B.Sc. Computer Science, University of Saskatchewan *(2025)*
-- B.Sc. Biomedical Science, University of Saskatchewan *(2025)*
 - B.Sc. Computer Science, University of Saskatchewan 
 - B.Sc. Biomedical Science, University of Saskatchewan 
 - Google Advanced Data Analytics Professional Certificate *(in progress)*
 - Kaggle Data Science & Machine Learning Certifications
-
----
-
-### 🤹 Fun Facts
-
-- 🏆 I thrive on hackathons and rapid prototyping challenges!
-- 🤝 Love building tools that help real people.
-- 🧠 Always up for a new learning adventure (currently: advanced data analytics).
 
 ---
 
