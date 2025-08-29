@@ -99,7 +99,7 @@
 - **Slack & Google Meet Integrations**: OAuth 2.0, scalable to thousands of users.
 - **Invoice Automation**: Python + OCR; turned 10 hours per week of manual entry into a minute's work.
 - **Emergency Healthcare App** *(Med.Hack+ 2024)*: Real-time triage, built at hackathon.
-- **Game Jam Entry**: "Make it, Count!" — Godot prototype in 48 hours.
+- **Game Jam Entry**: "Make it, Count!" — Godot Game in 48 hours.
 
 > 🔗 See more demos & code samples on my [LinkedIn](https://www.linkedin.com/in/hatem-alfarra-0281851ab/)!
 
