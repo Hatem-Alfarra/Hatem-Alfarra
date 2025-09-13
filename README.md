@@ -18,8 +18,10 @@
 ### 🚀 About Me
 
 - 👨‍💻 Full-stack & AI developer, passionate about building production-ready solutions.
+- 🧬 Background in Biomedical Science, cell biology, data analytics, and pharmacological research.
 - 🤖 Love integrating AI into real-world workflows & automating the boring stuff.
-- ☁️ Cloud geek: AWS, GCP, Azure, Docker, CI/CD.
+- ☁️ Cloud geek: AWS, GCP, Docker, CI/CD.
+- 🦾 Passionate about bringing tech into healthcare, and building biomedical / medical devices.
 - 🔍 Always learning and levelling up.
 
 ---
@@ -109,7 +111,7 @@
 
 - B.Sc. Computer Science, University of Saskatchewan 
 - B.Sc. Biomedical Science, University of Saskatchewan 
-- Google Advanced Data Analytics Professional Certificate *(in progress)*
+- Google Advanced Data Analytics Professional Certificate
 - Kaggle Data Science & Machine Learning Certifications
 
 ---
