@@ -19,7 +19,7 @@
 
 - 👨‍💻 Full-stack & AI developer, passionate about building production-ready solutions.
 - 🧬 Background in Biomedical Science, cell biology, data analytics, & pharmacological research.
-- 🤖 Love integrating AI into real-world workflows & automating the boring stuff.
+- 🤖 Love building real-world workflows & automating the boring stuff.
 - ☁️ Cloud geek: AWS, GCP, Docker, CI/CD.
 - 🦾 Passionate about bringing tech into healthcare, and building biomedical / medical tools & devices.
 - 🔍 Always learning and levelling up.
